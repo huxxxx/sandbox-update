@@ -1,0 +1,9 @@
+version: 1.0.1
+files:
+  - url: ecc-sandbox-kit Setup 1.0.1.exe
+    sha512: H9YTycWmfwlieBWdvM7B0YNI41IxqRjAZu3GRa2Lgg76U9tLNY3paMeB44KEmx0SI49NB7vXW0vKeeSVX2DTsA==
+    size: 188446043
+path: ecc-sandbox-kit Setup 1.0.1.exe
+sha512: H9YTycWmfwlieBWdvM7B0YNI41IxqRjAZu3GRa2Lgg76U9tLNY3paMeB44KEmx0SI49NB7vXW0vKeeSVX2DTsA==
+sha2: abcd2255601fae44b373a36482ef432118236d9154dd4ad6caf3c491974e4bc1
+releaseDate: '2018-03-20T08:00:18.184Z'
